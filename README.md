@@ -7,4 +7,5 @@ How to use Emotion Detection model
 2. Install Tensorflow and cv2 using pip install tensorflow using anaconda commmand prompt
 3. run the gui.py file
 4. upload the image in the gui
-5. click on the Detect button to detect the gestures
+![Screenshot 2024-04-12 004003](https://github.com/Dasuional/Emotion_Detection/assets/103253038/f033d9bf-38b3-434e-bbb6-5c3aa2ac50d1)
+5. Press the Detect Button to Detect the Images.
